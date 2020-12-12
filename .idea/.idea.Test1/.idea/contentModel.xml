@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sverl\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sverl\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Test1.-1783596389.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sverl\RiderProjects\Test1" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Test1" t="IncludeRecursive">
+        <e p="Actions" t="Include">
+          <e p="EnvironmentActions.cs" t="Include" />
+          <e p="InventoryActions.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Characters" t="Include">
+          <e p="BaseCharacter.cs" t="Include" />
+          <e p="CharacterEntity.cs" t="Include" />
+          <e p="ICharacter.cs" t="Include" />
+        </e>
+        <e p="Dialog" t="Include">
+          <e p="RoomDialog.cs" t="Include" />
+        </e>
+        <e p="DialogActions" t="Include">
+          <e p="DIalogActionsLogic.cs" t="Include" />
+        </e>
+        <e p="GameState.cs" t="Include" />
+        <e p="Inventory" t="Include">
+          <e p="CharacterInventory.cs" t="Include" />
+          <e p="IInventory.cs" t="Include" />
+          <e p="Item.cs" t="Include" />
+          <e p="ItemID.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="readme.md" t="Include" />
+        <e p="Resources" t="Include">
+          <e p="Constants.cs" t="Include" />
+        </e>
+        <e p="Room" t="Include">
+          <e p="BaseRoom.cs" t="Include" />
+          <e p="IRoom.cs" t="Include" />
+          <e p="RoomType.cs" t="Include" />
+        </e>
+        <e p="Test1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Test1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
